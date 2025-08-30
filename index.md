@@ -7,7 +7,7 @@ Each article is a short preview with links to full stories on [FlipTheMovieScrip
 
 ## Featured Articles
 - [Sylvester Stallone: How Adversity Forged Hollywood’s Reluctant Icon](sylvester-stallone.md)
-
+- [Charlize Theron Height: How It Shaped Her Path as an Actress](charlize-theron-height.md)
 ---
 
 👉 Explore more movie facts at [FlipTheMovieScript.com](https://flipthemoviescript.com).
