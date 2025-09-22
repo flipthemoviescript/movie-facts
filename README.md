@@ -6,6 +6,7 @@ Each page links to full articles on [FlipTheMovieScript.com](https://flipthemovi
 ## What’s inside
 - `index.md` — homepage for GitHub Pages
 - `actors/` — actor-specific trivia pages (Markdown)
+- `behind-the-scenes/` - behind-the-scene movie pages (Markdown)
 - `films/` — film-specific trivia pages (Markdown)
 - `data/movie_facts.json` — small, structured dataset of facts
 - `_config.yml` — enables a simple theme for GitHub Pages
